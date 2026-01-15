@@ -1,0 +1,2 @@
+Ici le contenu du fichier info.txt 
+que nous venons de creer.
